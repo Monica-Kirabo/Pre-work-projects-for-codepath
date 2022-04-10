@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 https://imgur.com/a/rOw1FCb
+https://imgur.com/a/4IKN8HR
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
