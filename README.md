@@ -41,8 +41,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
 
 
 ## Reflection Questions
@@ -76,7 +74,7 @@ https://youtu.be/rJ83D7X3-aA
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Monica Kirabo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
