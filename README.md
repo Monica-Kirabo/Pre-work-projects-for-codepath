@@ -40,10 +40,7 @@ The following **additional** features are implemented:
 - used different pitch for buttons other than the ones in the tutorial
 
 ## Video Walkthrough (GIF)
-
-https://github.com/Monica-Kirabo/Pre-work-projects-for-codepath/blob/8fa5100b3048837777572217b2d8dacc8b7f90d6/prework%20Gif.gif
-
-https://github.com/Monica-Kirabo/Pre-work-projects-for-codepath/blob/801fa8868d3b9d9bd5428797f3451a51f2340d46/prework2%20Gif.gif
+![](https://imgur.com/a/rOw1FCb)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
