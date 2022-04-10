@@ -1,0 +1,79 @@
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  font-family:helvetical,arial,sans-serif;
+background-color:MAROON;
+  margin:2em;
+  color:white;
+}
+
+h1{
+  font-family:verdana,arial, sans-serif;
+}
+
+button{
+  padding:10px;
+  border-radius:10px;
+}
+#gameButtonArea>button{
+  width:100px;
+  height:100px;
+  margin:2px;
+}
+.hidden{
+  display:none;
+}
+#button1{
+  background:lightgreen;
+}
+#button2{
+  background:lightblue;
+}
+#button3{
+  background:pink;
+}
+#button4{
+  background:lightyellow;
+}
+#button5{
+  background:GREY;
+}
+#button6{
+  background:AQUA;
+}
+#button1:active, #button1.lit{
+
+  
+background-image: url( 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2i5AdL4BalvsDA_xwCP2JJTuw8FhHL2IdwQ&usqp=CAU' );
+ background-size: 140px 90px;
+}
+#button2:active, #button2.lit{
+background:blue;
+}
+#button3:active,#button3.lit{
+  background:red;
+  
+background-image: url( 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTU7I0f1nRhSfc37qm8aCY9PFIKyhzgoc_A&usqp=CAU' );
+ background-size: 140px 90px;
+}
+   
+#button4:active,#button4.lit{
+  background:yellow;
+  
+}
+#button5:active,#button5.lit{
+  background:BLACK;
+  
+  background-image: url( 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFTn1ku5nFnLt_RRouCXBe-pkeNtWn0dS8g&usqp=CAU' );
+ background-size: 140px 90px;
+}
+#button6:active,#button6.lit{
+  background:PURPLE;
+}
