@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 - used different pitch for buttons other than the ones in the tutorial
 
 ## Video Walkthrough (GIF)
-![](https://imgur.com/a/rOw1FCb)
+https://imgur.com/a/rOw1FCb
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
