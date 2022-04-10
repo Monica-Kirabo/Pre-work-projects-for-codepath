@@ -71,7 +71,7 @@ If I had a few more hours, I would add more features to the game. I would redefi
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://youtu.be/rJ83D7X3-aA
 
 
 ## License
