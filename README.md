@@ -4,7 +4,7 @@
 
 Submitted by: **Monica Kirabo**
 
-Time spent: **12** hours spent in total
+Time spent: **13** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/light-and-sound-pre-work-memory-game
 ## Required Functionality
