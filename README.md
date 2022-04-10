@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![](prework Gif.gif)
+https://github.com/Monica-Kirabo/Pre-work-projects-for-codepath/blob/8fa5100b3048837777572217b2d8dacc8b7f90d6/prework%20Gif.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
